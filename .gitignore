@@ -131,6 +131,7 @@ dmypy.json
 # Add train and test data folder
 database/train/
 database/test/
+database/sample_train/
 
 # Mac OS env
 database/.DS_Store
