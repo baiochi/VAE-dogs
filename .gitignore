@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Add train and test data folder
+database/train/
+database/test/
+
+# Mac OS env
+database/.DS_Store
+.DS_Store
