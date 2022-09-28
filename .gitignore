@@ -136,3 +136,5 @@ database/sample_train/
 # Mac OS env
 database/.DS_Store
 .DS_Store
+notes.md
+traning_notebook.ipynb
